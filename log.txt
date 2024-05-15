@@ -1,0 +1,30 @@
+UserID: 7080338910 | Time: 2024-04-19 16:15:58.699418 | Command: /bgmi | Target: 20.204.148.64 | Port: 21253 | Time: 40
+Username: @Ajju080493
+Target: 20.204.148.64
+Port: 21253
+Time: 40
+
+UserID: 7080338910 | Time: 2024-04-19 16:16:02.415570 | Command: /bgmi | Target: 20.204.148.64 | Port: 21253 | Time: 40
+Username: @Ajju080493
+Target: 20.204.148.64
+Port: 21253
+Time: 40
+
+UserID: 7080338910 | Time: 2024-04-19 16:16:59.590401 | Command: /bgmi | Target: 20.204.148.64 | Port: 21253 | Time: 40
+Username: @Ajju080493
+Target: 20.204.148.64
+Port: 21253
+Time: 40
+
+UserID: 7080338910 | Time: 2024-04-19 16:17:07.855934 | Command: /bgmi | Target: 20.204.148.64 | Port: 21253 | Time: 40
+Username: @Ajju080493
+Target: 20.204.148.64
+Port: 21253
+Time: 40
+
+UserID: 7080338910 | Time: 2024-04-19 16:17:42.023209 | Command: /bgmi | Target: 20.204.148.64 | Port: 21253 | Time: 40
+Username: @Ajju080493
+Target: 20.204.148.64
+Port: 21253
+Time: 40
+
